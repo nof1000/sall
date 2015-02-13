@@ -5,7 +5,10 @@
   "author": "Denis Maslennikov aka Nof1000",
   "license": "MIT",
   "main": "app.js",
-  "repository": "nof1000/sall",
+  "repository": {
+    "type": "git",
+    "url" : "http://github.com/nof1000/sall.git"
+  },
   "dependencies": {
     "connect": "^3.3.4",
     "serve-static": "^1.8.1"
