@@ -8,6 +8,11 @@ $: npm install shall -g
 ```
 
 # Using
+
+Simple for you!
+`$: sall [path] [port]`
+
+
 Run on `localhost:3000` in current open directory
 ```
 $: shall
