@@ -4,7 +4,7 @@ Minimalist localhost static server for any directory
 
 # Install
 ```
-$: npm install shall -g
+$: npm install sall -g
 ```
 
 # Using
@@ -15,22 +15,22 @@ Simple for you!
 
 Run on `localhost:3000` in current open directory
 ```
-$: shall
+$: sall
 ```
 
 Run on `localhost:8080` in current open directory
 ```
-$: shall 8080
+$: sall 8080
 ```
 
 Run on `localhost:3000` in home directory
 ```
-$: shall ~/
+$: sall ~/
 ```
 
 Run on `localhost:8080` in home directory
 ```
-$: shall ~/ 8080
+$: sall ~/ 8080
 ```
 
 # LICENSE
