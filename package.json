@@ -1,7 +1,7 @@
 {
   "name": "sall",
   "description": "minimalist localhost static server for any directory",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Denis Maslennikov aka Nof1000",
   "license": "MIT",
   "main": "app.js",
