@@ -1,0 +1,29 @@
+{
+  "name": "sall",
+  "description": "minimalist localhost static server for any directory",
+  "version": "1.0.0",
+  "author": "Denis Maslennikov aka Nof1000",
+  "license": "MIT",
+  "main": "app.js",
+  "repository": "nof1000/sall",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "serve-static": "^1.8.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "bin": {
+    "sall": "./app.js"
+  },
+  "keywords": [
+    "web",
+    "connect",
+    "localhost",
+    "server",
+    "static"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
