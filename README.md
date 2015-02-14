@@ -3,6 +3,8 @@
 Minimalist localhost static server for any directory
 
 # Install
+
+[![Join the chat at https://gitter.im/nof1000/sall](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nof1000/sall?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ```
 $: npm install sall -g
 ```
